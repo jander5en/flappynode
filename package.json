@@ -1,0 +1,14 @@
+{
+  "name": "flappynode",
+  "version": "1.0.0",
+  "description": "flappy_with_rpi_io",
+  "main": "flappy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
